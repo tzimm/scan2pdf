@@ -1,3 +1,6 @@
+Scan2PDF:
+Intended to create one single pdf file out of multiple scanned image files. Includes GUI.
+
 ScanIntoPdf.py is the main python file
 
 relies on pdftk to join the created single image - pdfs
