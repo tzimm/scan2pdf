@@ -1,0 +1,8 @@
+ScanIntoPdf.py is the main python file
+
+relies on pdftk to join the created single image - pdfs
+
+ToDO: Add OCR functionality
+
+converter.py - image converting class
+Scan2Pdf_gui - gui glass created with pyside-uic from scanintopdf_gui.ui
